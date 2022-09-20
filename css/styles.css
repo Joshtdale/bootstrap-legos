@@ -46,6 +46,10 @@
     margin: 10px
 }
 
+.row {
+    justify-content: center;
+}
+
 
 div[class*="col"] {
     min-height: 250px;
